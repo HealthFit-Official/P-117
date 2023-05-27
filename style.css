@@ -1,0 +1,44 @@
+body
+{
+    background-color: palegreen;
+}
+ body{
+    align-items: center;
+    text-align:center;
+    font-size:25px;
+   
+ }
+ .container
+ {
+   text-align: center;
+
+ }
+
+ h1{
+    background-color: aliceblue;
+ }
+
+ .column{
+    float:left;
+    text-align: center;
+    justify-content:center;
+    margin-right: 10px;
+ }
+ .row{
+    content:"";
+    display:table;
+    text-align: center;
+    word-spacing: 20cap;
+
+ }
+
+ canvas
+ {
+    color: aqua;
+ }
+
+
+
+
+
+
